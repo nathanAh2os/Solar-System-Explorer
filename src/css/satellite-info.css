@@ -1,0 +1,11 @@
+.distance {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  left: 33vw;
+  padding: 5px 0;
+  margin: 0;
+  width: 33vw;
+  background: none;
+  text-align: center;
+}

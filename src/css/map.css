@@ -1,0 +1,20 @@
+.solarSystemMap {
+  height: 85vh;
+  background-color: #38383B;
+  width: 90vh;
+  position: relative;
+  overflow: hidden;
+}
+.satelliteLabel {
+  color: #fff;
+  font-family: sans-serif;
+  padding: 2px;
+  background: none;
+}
+.twoDRenderer {
+  position: absolute;
+  height: 85vh;
+  width: auto;
+  top: 0;
+  border: none;
+}
